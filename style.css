@@ -69,3 +69,8 @@ section img {
     padding: 12px 25px;
   }
 }
+.banner img.banner-img {
+  width: 100%;
+  height: auto;   /* keeps full image visible without cropping */
+  display: block;
+}
